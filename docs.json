@@ -1,0 +1,14 @@
+{
+    "name": "PropertyBox - UI Docs",
+    "description": "The go to place for PropertyBox UI documentation",
+    "logo": "/assets/logo.png",
+    "logoDark": "/assets/logo-dark.png",
+    "sidebar": [
+        ["Getting Started", "/overview/hey"],
+        ["Components", [
+        ["Reference API", "/reference"],
+        ["FAQs", "/faqs"]
+        ]]
+    ]
+      
+}
