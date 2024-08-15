@@ -1,6 +1,6 @@
 # Propertybox UI Elements Documentation
 
-This repository contains the documentation for the **Propertybox UI elements**. Our documentation is managed and published through <a href="docs.page" target="_blank">https://docs.page</a>, allowing us to create, edit, and share our documentation directly from GitHub.
+This repository contains the documentation for the **Propertybox UI elements**. Our documentation is managed and published through <a href="docs.page" target="_blank">https://docs.page</a>, allowings us to create, edit, and share our documentation directly from GitHub.
 
 ## Viewing the Documentation
 
