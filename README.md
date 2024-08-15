@@ -1,10 +1,10 @@
 # Propertybox UI Elements Documentation
 
-This repository contains the documentation for the **Propertybox UI elements**. Our documentation is managed and published through [docs.page](https://docs.page), allowing us to create, edit, and share our documentation directly from GitHub.
+This repository contains the documentation for the **Propertybox UI elements**. Our documentation is managed and published through <a href="docs.page" target="_blank">https://docs.page</a>, allowing us to create, edit, and share our documentation directly from GitHub.
 
 ## Viewing the Documentation
 
-You can view the full documentation for Propertybox UI elements at [https://docs.page/FocalAgent-Limited/propertybox-ui](https://docs.page/FocalAgent-Limited/propertybox-ui).
+You can view the full documentation for Propertybox UI elements at <a href="https://docs.page/FocalAgent-Limited/propertybox-ui" target="_blank">https://docs.page/FocalAgent-Limited/propertybox-ui</a>.
 
 ## Contributing to the Documentation
 
@@ -32,7 +32,7 @@ git checkout -b add-new-ui-element
 
 - Write the documentation content using Markdown syntax. Include relevant information such as descriptions, usage examples, and code snippets.
 
-- To preview the changes locally navigate to [https://docs.page/preview](https://docs.page/preview) and select the directory on your computer that contains the docs folder and the index.mdx.
+- To preview the changes locally navigate to <a href="https://docs.page/preview" target="_blank">https://docs.page/preview</a> and select the directory on your computer that contains the docs folder and the index.mdx.
 
 ### 4. Commit Your Changes
 
