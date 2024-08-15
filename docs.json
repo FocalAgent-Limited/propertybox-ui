@@ -10,7 +10,7 @@
     ],
     "sidebar": [
         ["Components", [
-        ["PbCard", "/components/pb_card/pb_card.mdx"]
+        ["PbCard", "/components/pb_card/index"]
         ]]
     ]
 }
