@@ -32,7 +32,7 @@ git checkout -b add-new-ui-element
 
 - Write the documentation content using Markdown syntax. Include relevant information such as descriptions, usage examples, and code snippets.
 
-- To preview the changes locally navigate to <a href="https://docs.page/preview" target="_blank">https://docs.page/preview</a> and select the directory on your computer that contains the docs folder and the index.mdx.
+- To preview the changes locally navigate to <a href="https://docs.page/preview" target="_blank">https://docs.page/preview</a> and select the directory on your computer that contains in the root the docs folder and the docs.json.
 
 ### 4. Commit Your Changes
 
