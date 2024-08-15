@@ -34,6 +34,8 @@ git checkout -b add-new-ui-element
 
 - To preview the changes locally navigate to <a href="https://docs.page/preview" target="_blank">https://docs.page/preview</a> and select the directory on your computer that contains in the root the docs folder and the docs.json.
 
+- For detailed explanation how to use docs.page and change configuration etc. check here [https://use.docs.page/](https://use.docs.page/)
+
 ### 4. Commit Your Changes
 
 - Once you have added your documentation, commit your changes with a meaningful commit message:
